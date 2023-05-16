@@ -1,40 +1,22 @@
-/*  your css code here. If applicable */
-/* Your CSS Code here */
-
-body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 20px;
-}
-
+/* Your CSS code here */
 .quiz-container {
-    max-width: 500px;
-    margin: 0 auto;
+  margin: 20px;
 }
 
-h2 {
-    margin-top: 0;
+.quiz-container h2 {
+  margin-bottom: 10px;
 }
 
-label {
-    display: block;
-    margin-top: 10px;
-}
-
-input[type="radio"] {
-    margin-right: 5px;
-}
-
-button {
-    margin-top: 10px;
+.quiz-container label {
+  display: block;
+  margin-bottom: 5px;
 }
 
 #result {
-    text-align: center;
-    margin-top: 50px;
+  text-align: center;
+  margin-top: 20px;
 }
 
-#score {
-    font-size: 24px;
-    margin-bottom: 20px;
+#reload {
+  margin-top: 10px;
 }
